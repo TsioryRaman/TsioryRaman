@@ -11,10 +11,8 @@
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/tsiory-raman-ab309b1b2/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/tsiory-raman-ab309b1b2/)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/Tsiory#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/Tsiory#gh-dark-mode-only)
 
 ### Languages and Tools:
 
