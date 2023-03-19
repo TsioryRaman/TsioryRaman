@@ -31,3 +31,5 @@
 
 ### My website:
 [website](https://tsiory.vercel.app/)
+
+![Snake animation](https://github.com/TsioryRaman/TsioryRaman/blob/output/github-contribution-grid-snake.svg)
