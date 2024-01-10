@@ -2,8 +2,8 @@
 <p aling=center>
 <img src="https://komarev.com/ghpvc/?username=TsioryRaman&abbreviated=true" alt="profile view"/>
 
+### I' a developper
 </p>
-## I'm a Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
